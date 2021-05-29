@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iTzMarsi
 - 👀 I’m interested in programming stuff and messing around.
-- 🌱 I’m currently learning Python, C#
+- 🌱 I’m currently learning Python and C#, also got some experience in HTML/CSS JavaScript, Java and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: iTz_Marsi#1381
 
