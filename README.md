@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @iTzMarsi
+- 👀 I’m interested in programming stuff and messing around.
+- 🌱 I’m currently learning Python, C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Discord: iTz_Marsi#1381
+
+<!---
+iTzMarsi/iTzMarsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
